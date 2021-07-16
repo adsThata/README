@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, sou Thais </h1>
 <h3 align = "center"> Estudante de Análise e Desenvolvimento de Sistemas - FATEC ZONA LESTE </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=tscheiner&label=Profile%20views&color=0e75b6&style=flat" alt = "tscheiner" /> </p>
+
 
 
 <h3 align = "left"> Idiomas e ferramentas : </h3>
