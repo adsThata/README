@@ -10,4 +10,4 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=tscheiner&show_icons=true&locale=en&layout=compact" alt = "tscheiner" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=tscheiner&show_icons=true&locale=en" alt = "tscheiner" /> </p>
+<p>  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=tscheiner&show_icons=true&locale=en" alt = "tscheiner" /> </p>
